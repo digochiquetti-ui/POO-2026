@@ -3,7 +3,7 @@
 *.iml
 
 # Arquivos compilados do Java
-
+*.class
 bin/
 out/
 target/

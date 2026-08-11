@@ -1,0 +1,12 @@
+# Arquivos do IntelliJ IDEA
+.idea/
+*.iml
+
+# Arquivos compilados do Java
+
+bin/
+out/
+target/
+
+# Arquivos do VS Code (caso use)
+.vscode/
